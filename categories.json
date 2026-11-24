@@ -1,0 +1,43 @@
+{
+    "TECHNOLOGY": [
+        "PHONE",
+        "LAPTOP",
+        "COMPUTER"
+    ],
+    "HOME_REPAIR": [
+        "PLUMBING",
+        "ELECTRICAL",
+        "CARPENTRY"
+    ],
+    "CLEANING": [
+        "HOUSE_CLEANING",
+        "DEEP_CLEANING"
+    ],
+    "GARDENING": [
+        "PLANTS",
+        "LEAVES",
+        "SOIL",
+        "WEEDS"
+    ],
+    "BEAUTY": [
+        "FACIAL",
+        "MAKEUP",
+        "HAIR",
+        "NAILS"
+    ],
+    "PET_CARE": [
+        "GROOMING",
+        "DOG_WALKING",
+        "VETERINARY"
+    ],
+    "SERVICES": [
+        "PHOTOGRAPHY"
+    ],
+    "EDUCATION": [
+        "TUTORING"
+    ],
+    "EMPLOYMENT": [
+        "JOB_SEARCH",
+        "WORKPLACE_INFO"
+    ]
+}
